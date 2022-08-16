@@ -4,15 +4,16 @@
 <!-- © 2021-22 TechieSneh -->
 
 <h4 align='center'>A Jio IPTV server based on Apache and PHP than can be run on Android TV and Android things to stream Jio IPTV channels</h4>
-<br>Login with your own Jio credentials (username & password) to stream channels using this script<br>
+<br>
+<h6 align='center'>Login with your own Jio credentials (username & password) to stream channels using this script</h6><br>
 
-<h2>Features :</h2>
-- HQ Streaming Free of Cost
-- Will Works In 250, 400, 600, 800, 1200(FEW NOT SUPPORT) in this Given Qualities
-- Web Play Supports
-- Works on Mobile, AndroidTV or PC Browser Perfect
-- Search channels by Channels, Genre, Language
-- Themes support fort the portal
+<h2>Features</h2>
+&ensp; - HQ Streaming Free of Cost<br>
+&ensp; - Will Works In 250, 400, 600, 800, 1200(FEW NOT SUPPORT) in this Given Qualities<br>
+&ensp; - Web Play Supports<br>
+&ensp; - Works on Mobile, AndroidTV or PC Browser Perfect<br>
+&ensp; - Search channels by Channels, Genre, Language<br>
+&ensp; - Themes support fort the portal<br>
 
 <br>
 
@@ -27,7 +28,7 @@
 
 <br>
 
-<h2>How To Use : (This section to be edited at my free time) </h2>
+<h2>How To Use (This section to be edited at my free time) </h2>
 
 #### ♢ Method 1 :
 
@@ -98,23 +99,22 @@ http://localhost:8080/tsjiotv/localplaylists/jio240p.m3u
 <!-- © 2021-22 TechieSneh -->
 
 
-#### Generate ssoToken Here (HERE YOU GET DATA WITH OTP):
-
-1. FOR SSO TOKEN : [JioLogin](http://jiologin.unaux.com)<br>
-2. For This You Need JioID Number and Password<br> 
-3. You Can Also get Data with OTP
+<h2> Generate ssoToken Here (HERE YOU GET DATA WITH OTP) </h2> 
+&ensp; 1. FOR SSO TOKEN : [JioLogin](http://jiologin.unaux.com)<br>
+&ensp; 2. For This You Need JioID Number and Password<br> 
+&ensp; 3. You Can Also get Data with OTP
 
 - `user` = Username / Mobile No.
 - `pass` = Password
 
 <br>
 
-<h2>Warnings :</h2>
-- This is Just For Educational Purpose
+<h2>Disclaimer</h2>
+&ensp; - This is Just For Educational Purpose
 
 <h3>Get in touch with the original author of this script below (I am just a user who looks to document & guide other user to configure this server well) : </h3>
-• For any Support Join Our Channel [Techie Sneh Official](https://telegram.me/techiesneh_official)<br>
-• For Any Query Contact at [ProtonMail](mailto:techiesneh@protonmail.com)
+&ensp; • For any Support Join Our Channel [Techie Sneh Official](https://telegram.me/techiesneh_official)<br>
+&ensp; • For Any Query Contact at [ProtonMail](mailto:techiesneh@protonmail.com)
 
 <br>
 
