@@ -1,4 +1,4 @@
-<h1 align='center'>✯ JɪᴏTV <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jio_TV_logo.svg/1200px-Jio_TV_logo.svg.png" width="40" height="40"> Pʟᴀʏ 3.0 ✯</h1>
+<h1 align='center'>Jɪᴏ IPTV <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jio_TV_logo.svg/1200px-Jio_TV_logo.svg.png" width="40" height="40"> Pʟᴀʏ 3.0 ✯</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 TechieSneh -->
