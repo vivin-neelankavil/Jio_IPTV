@@ -1,41 +1,25 @@
-<h1 align='center'>Jɪᴏ IPTV <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jio_TV_logo.svg/1200px-Jio_TV_logo.svg.png" width="40" height="40"> Pʟᴀʏ 3.0 ✯</h1>
+<h1 align='center'>Jɪᴏ IPTV<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jio_TV_logo.svg/1200px-Jio_TV_logo.svg.png" width="40" height="40"></h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 TechieSneh -->
 
-<h4 align='center'>📺 The PHP Script For Grab Streaming Links and Play it , This Works Only on Android & Android TV
-Through LocalHost <br><br>🌟 Star This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script
-😈<br><br>Login With Your Own Credentials In This Script</h4>
+<h4 align='center'>A Jio IPTV server based on Apache and PHP than can be run on Android TV and Android things to stream Jio IPTV channels<br>
+<br>Login with your own Jio credentials (username & password) to stream channels using this script</h4>
 <br>
 
-<h2>😇 Features :</h2>
+<h2>Features :</h2>
 
-- HQ Streaming Free of Cost <br>
+- HQ Streaming Free of Cost
 - Will Works In 250, 400, 600, 800, 1200(FEW NOT SUPPORT) in this Given Qualities
 - Web Play Supports
 - Works on Mobile, AndroidTV or PC Browser Perfect
+- Search channels by Channels, Genre, Language
+- Themes support fort the portal
 
-<br>
-<h2>💖 NEW FEATURES :</h2>
-
-- Search Feature Added<br>
-
-1. 🔍 SEARCH BY CHANNEL NAME 
-```
-e.g.  Sony,Zee,Star ...
-```
-2. 🔍 SEARCH BY GENRE 
-```
-e.g.  Entertainment,Kids,Movies,Music ...
-```
-3. 🔍 SEARCH BY LANGUAGE 
-```
-e.g.  Hindi,Tamil,Kannada,Odia ...
-```
 
 <br>
 
-<h2>📸 SCREENSHOTS : </h2>
+<h2>SCREENSHOTS : </h2>
 
 <img src="screenshots/main/main.png" width="400" height="200">
 
@@ -45,27 +29,16 @@ e.g.  Hindi,Tamil,Kannada,Odia ...
 
 <br>
 
-<h2>🍁 How To Use : </h2>
+<h2>How To Use : (This section to be edited at my free time) </h2>
 
 #### ♢ Method 1 :
 
-1. First Download This Application<br>
+1. Install an Apache server with PHP support<br>
+Recommend apps for android
+  KSWEB: web developer kit (Use the PRO version)
+  https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
 
-- KSWEB PRO ( Php Web Server ) <br>
-
-```py
-https://dl1.apkhome.net/2019/6/KSWEB-3.93%20Pro.apk
-```
-
-```py
-https://apkcow.com/ksweb-server-php-mysql-mod-apk/download/
-```
-
-```py
-https://s3.dlandroid.com/apps/KSWEB-server[dlandroid.com].apk
-```
-
-2.  Then Download This Zip Files<br>
+2. Download this Zip Files<br>
 
 - [JioTV Zip](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) <br>
 
@@ -127,45 +100,9 @@ http://localhost:8080/tsjiotv/localplaylists/jio240p.m3u
 <!-- © 2021-22 TechieSneh -->
 
 
-<h2>📸 NEW THEMES SCREENSHOTS : </h2>
+#### Generate ssoToken Here (HERE YOU GET DATA WITH OTP):
 
-##### ♢♢ JIOTV ARCADE SHOTS [CLICK HERE](https://github.com/mitthu786/TS-JioTV/tree/main/themes/jiotv-arcade)
-
-<img src="screenshots/jiotv-arcade/arcade.png" width="400" height="200">
-
-<br><br>
-
-##### ♢♢ JIOTV CLASSIC SHOTS [CLICK HERE](https://github.com/mitthu786/TS-JioTV/tree/main/themes/jiotv-classic)
-
-<img src="screenshots/jiotv-classic/classic.png" width="400" height="200">
-
-<br><br>
-
-##### ♢♢ JIOTV LIGHTMODE SHOTS [CLICK HERE](https://github.com/mitthu786/TS-JioTV/tree/main/themes/jiotv-lightmode)
-
-<img src="screenshots/jiotv-lightmode/light.png" width="400" height="200">
-
-<br><br>
-
-##### ♢♢ JIOTV DARKMODE SHOTS [CLICK HERE](https://github.com/mitthu786/TS-JioTV/tree/main/themes/jiotv-darkmode)
-
-<img src="screenshots/jiotv-darkmode/dark.png" width="400" height="200">
-
-<br><br>
-
-##### ♢♢ JIOTV PREMIUM SHOTS [CLICK HERE](https://github.com/mitthu786/TS-JioTV/tree/main/themes/jiotv-premium)
-
-<img src="screenshots/jiotv-premium/premium.png" width="400" height="200">
-
-<br>
-
-<img src="screenshots/jiotv-premium/play.png" width="400" height="200">
-
-<br><br>
-
-#### 😛 Generate ssoToken Here (HERE YOU GET DATA WITH OTP):
-
-1. ✍️ FOR SSO TOKEN : [JioLogin](http://jiologin.unaux.com)<br>
+1. FOR SSO TOKEN : [JioLogin](http://jiologin.unaux.com)<br>
 2. For This You Need JioID Number and Password<br> 
 3. You Can Also get Data with OTP
 
@@ -174,12 +111,11 @@ http://localhost:8080/tsjiotv/localplaylists/jio240p.m3u
 
 <br>
 
-<h2>🚸 Warnings :</h2>
+<h2>Warnings :</h2>
 
 - This is Just For Educational Purpose
-- DO NOT Sell this Script, This is 💯% Free
 
-<h3>🤗 Meet Me : </h3>
+<h3>Get in touch with the original author of this script below (I am just a user who looks to document & guide other user to configure this server well) : </h3>
 
 • For any Support Join Our Channel [Techie Sneh Official](https://telegram.me/techiesneh_official)<br>
 • For Any Query Contact at [ProtonMail](mailto:techiesneh@protonmail.com)
