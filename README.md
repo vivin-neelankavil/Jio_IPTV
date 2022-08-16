@@ -1,14 +1,12 @@
-<h1 align='center'>Jɪᴏ IPTV<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jio_TV_logo.svg/1200px-Jio_TV_logo.svg.png" width="40" height="40"></h1>
+<h1 align='center'>Jɪᴏ IPTV Server</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 TechieSneh -->
 
-<h4 align='center'>A Jio IPTV server based on Apache and PHP than can be run on Android TV and Android things to stream Jio IPTV channels<br>
-<br>Login with your own Jio credentials (username & password) to stream channels using this script</h4>
-<br>
+<h4 align='center'>A Jio IPTV server based on Apache and PHP than can be run on Android TV and Android things to stream Jio IPTV channels</h4>
+<br>Login with your own Jio credentials (username & password) to stream channels using this script<br>
 
 <h2>Features :</h2>
-
 - HQ Streaming Free of Cost
 - Will Works In 250, 400, 600, 800, 1200(FEW NOT SUPPORT) in this Given Qualities
 - Web Play Supports
@@ -16,16 +14,16 @@
 - Search channels by Channels, Genre, Language
 - Themes support fort the portal
 
-
 <br>
 
-<h2>SCREENSHOTS : </h2>
+<h2>Screenshots : </h2>
 
-<img src="screenshots/main/main.png" width="400" height="200">
-
-<br>
-
-<img src="screenshots/main/play.png" width="400" height="200">
+<table>
+  <tr>
+    <td><img src="screenshots/main/main.png" width="400" height="200"></td>
+    <td><img src="screenshots/main/play.png" width="400" height="200"></td>
+  </tr>
+</table>
 
 <br>
 
@@ -35,7 +33,7 @@
 
 1. Install an Apache server with PHP support<br>
 Recommend apps for android
-  KSWEB: web developer kit (Use the PRO version)
+  KSWEB: web developer kit (Buy the PRO version)
   https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
 
 2. Download this Zip Files<br>
@@ -112,11 +110,9 @@ http://localhost:8080/tsjiotv/localplaylists/jio240p.m3u
 <br>
 
 <h2>Warnings :</h2>
-
 - This is Just For Educational Purpose
 
 <h3>Get in touch with the original author of this script below (I am just a user who looks to document & guide other user to configure this server well) : </h3>
-
 • For any Support Join Our Channel [Techie Sneh Official](https://telegram.me/techiesneh_official)<br>
 • For Any Query Contact at [ProtonMail](mailto:techiesneh@protonmail.com)
 
