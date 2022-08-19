@@ -2,7 +2,7 @@
 <!-- © 2021-22 TechieSneh -->
 
 <h1 align='center'>Jɪᴏ IPTV Server</h1>
-<h4 align='center'>A Jio IPTV server based on Apache and PHP than can be run on Android TV and Android things to stream Jio IPTV channels</h4>
+<h4 align='center'>A Jio IPTV server based on Apache and PHP server than can be run on Android TV and Android things to stream Jio IPTV channels</h4>
 <br>
 <h2>Description</h2>
 Why need to pay for monthly TV subscription to Airtel, DishTV, Tata Sky or even Jio when you are already using an Jio postpaid or prepaid number and have an internet connection at home? <br>
@@ -12,11 +12,10 @@ Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repos
 <br>
 
 <h2>Features</h2>
-&ensp; - HQ Streaming Free of Cost<br>
-&ensp; - Will Works In 250, 400, 600, 800, 1200(FEW NOT SUPPORT) in this Given Qualities<br>
-&ensp; - Web Play Supports<br>
-&ensp; - Works on Mobile, AndroidTV or PC Browser Perfect<br>
-&ensp; - Search channels by Channels, Genre, Language<br>
+&ensp; - Supports streaming in Auto, 250p, 400p, 600p, 800p, 1200p<br>
+&ensp; - Remote play and IPTV clients support<br>
+&ensp; - Works on mobile, Android TV or PC internet browser<br>
+&ensp; - Search channels by Channels, Genre and Language<br>
 &ensp; - Themes support fort the portal<br>
 
 <br>
