@@ -84,4 +84,4 @@ Hurrah !! Now Play & Enjoy with your Jio Channels.<br>
 
 <h2>Disclaimer</h2>
 &ensp; - This is Just For Educational Purpose <br>
-&ensp; - I am not the author of this script, so I don't know if this script injects or collects information from us, use at your ownrisk.
+&ensp; - I am not the author of this script, so I don't know if this script injects or collects information from us, use at your own risk.
