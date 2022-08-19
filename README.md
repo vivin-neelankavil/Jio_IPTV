@@ -1,8 +1,7 @@
-<h1 align='center'>Jɪᴏ IPTV Server</h1>
-
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 TechieSneh -->
 
+<h1 align='center'>Jɪᴏ IPTV Server</h1>
 <h4 align='center'>A Jio IPTV server based on Apache and PHP than can be run on Android TV and Android things to stream Jio IPTV channels</h4>
 <br>
 <h2>Description</h2>
@@ -51,7 +50,7 @@ Steps
     /mnt/sdcard/htdocs
     ```
 
-  &ensp; After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this
+  After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this
     
     ```py
     /mnt/sdcard/htdocs/tsjiotv/
@@ -70,7 +69,7 @@ Steps
      http://localhost:8080/tsjiotv/login.php
      ```
 
-  &ensp; b. Using your mobile, iPad or PC's internet browser
+  b. Using your mobile, iPad or PC's internet browser
      Your JioTV server ip same as the 'Android TV' private ip we noted down earlier
 
      ```py
