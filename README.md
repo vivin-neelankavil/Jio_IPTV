@@ -4,7 +4,12 @@
 <!-- © 2021-22 TechieSneh -->
 
 <h4 align='center'>A Jio IPTV server based on Apache and PHP than can be run on Android TV and Android things to stream Jio IPTV channels</h4>
-<h6 align='center'>Login with your own Jio credentials (username & password) to stream channels using this script</h6>
+<br>
+<h2>Description</h2>
+Why need to pay for monthly TV subscription to Airtel, DishTV, Tata Sky or even Jio when you are already using an Jio postpaid or prepaid number and have an internet connection at home?
+Kudos to the author [mitthu786](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) for developing this script, I am just a better documenter
+<br>
+Please do star [mitthu786](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) and my repository
 <br>
 
 <h2>Features</h2>
@@ -30,7 +35,7 @@
 
 <h2>How To Use</h2>
 I am just concentrating on configuring Android TV's in this document to not confuse the users reading this
-BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for smooth and HD viewing experience
+BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for smooth and HD streaming experience
 
 Steps
 
@@ -50,10 +55,10 @@ Steps
 ```
 
 3. Configure the KSWEB Pro
-  a. Open KSWEB Pro and disable all the service except Apache and PHP
-  b. Goto 'Apache' section and edit the configuration file to run the Apache server to run on port 8080
-  c. Goto 'Setting' section and enable 'Auto start', 'Start minimized' and 'Turn off battery saving' (you may need to follow few more steps to turn off battery saving in Android settings)
-  d. Goto 'Status' section and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x'
+  a. Open KSWEB Pro and disable all the service except Apache and PHP <br>
+  b. Goto 'Apache' section and edit the configuration file to run the Apache server to run on port 8080 <br>
+  c. Goto 'Setting' section and enable 'Auto start', 'Start minimized' and 'Turn off battery saving' (you may need to follow few more steps to turn off battery saving in Android settings) <br>
+  d. Goto 'Status' section and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
 
 4. Login to JioTV server with your Jio credentials, just for the first time
   a. Using the 'Android TV' internet browser 
@@ -72,21 +77,8 @@ Steps
 
 Hurrah !! Now Play & Enjoy with your Jio Channels .</b><br>
 
-
-<!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
-<!-- © 2021-22 TechieSneh -->
 <br>
 
 <h2>Disclaimer</h2>
 &ensp; - This is Just For Educational Purpose
-
-<h3>Get in touch with the original author of this script below (I am just a user who looks to document & guide other user to configure this server well) : </h3>
-&ensp; • For any Support Join Our Channel [Techie Sneh Official](https://telegram.me/techiesneh_official)<br>
-&ensp; • For Any Query Contact at [ProtonMail](mailto:techiesneh@protonmail.com)
-
-<br>
-
----
-<h4 align='center'>© 2021-22 Techie Sneh</h4>
-
-<!-- DO NOT REMOVE THIS CREDIT -->
+&ensp; - I am not the author of this script, so I don't know if this script injects or collects information from us, use at your ownrisk.
