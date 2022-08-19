@@ -39,7 +39,7 @@ Steps
 
 1. Install the following android apps from google play store<br>
   a. 'KSWEB: web developer kit', the author of this script recommends using  paid/PRO version<br>
-  b. Tivimate or OTT Navigator Player, I recommend using the paid version<br>
+  b. Tivimate or OTT Navigator Player, I recommend using the paid version as this it has the closest/similar interface of using ideal TV setup box<br>
 
 2. Download the [JioTV zip](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) file<br>
   a. Extract the 'tsjiotv' folder inside the tsjiotv.zip and copy it to 'htdocs' directory <br>
@@ -55,8 +55,8 @@ Steps
     /mnt/sdcard/htdocs/tsjiotv/
     ```
 
-3. Configure the KSWEB Pro <br>
-  a. Open KSWEB Pro and disable all the service except Apache and PHP <br>
+3. Configure the 'KSWEB Pro' <br>
+  a. Open 'KSWEB Pro' and disable all the service except Apache and PHP <br>
   b. Goto 'Apache' section and edit the configuration file to run the Apache server to run on port 8080 <br>
   c. Goto 'Setting' section and enable 'Auto start', 'Start minimized' and 'Turn off battery saving' (you may need to follow few more steps to turn off battery saving in Android settings) <br>
   d. Goto 'Status' section and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
@@ -69,7 +69,7 @@ Steps
      ```
 
   b. Using your mobile, iPad or PC's internet browser
-     Your JioTV server ip same as the 'Android TV' private ip we noted down earlier
+     Your JioTV server ip is same as the 'Android TV' private ip we noted down earlier
 
      ```py
      http://<your_private_ip>:8080/tsjiotv/login.php
@@ -78,8 +78,9 @@ Steps
 5. Open Tivimate or OTT Navigator Player and configure the IPTV playlist<br>
   a. Select local playlist option and choose the 'localplaylist.m3u' file from the htdocs/tsjiotv directory <br>
   b. in case your IPTV video is lagging/buffering or you don't have the required internet bandwidth to stream smoothly, then choose the default required resolution from one the playlist at htdocs/tsjiotv directory.
+  c. Optionally, you can configure to auto start Tivimate or OTT Navigator on Android TV boot or waking from sleep and start playing TV channels as any TV setup box would do.
 
-Hurrah !! Now Play & Enjoy with your Jio Channels.<br>
+Hurrah !! Now Play & Enjoy streaming TV Channels.<br>
 
 <h2>Disclaimer</h2>
 &ensp; - This is Just For Educational Purpose <br>
