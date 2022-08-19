@@ -4,8 +4,8 @@
 <!-- © 2021-22 TechieSneh -->
 
 <h4 align='center'>A Jio IPTV server based on Apache and PHP than can be run on Android TV and Android things to stream Jio IPTV channels</h4>
+<h6 align='center'>Login with your own Jio credentials (username & password) to stream channels using this script</h6>
 <br>
-<h6 align='center'>Login with your own Jio credentials (username & password) to stream channels using this script</h6><br>
 
 <h2>Features</h2>
 &ensp; - HQ Streaming Free of Cost<br>
@@ -17,7 +17,7 @@
 
 <br>
 
-<h2>Screenshots : </h2>
+<h2>Screenshots</h2>
 
 <table>
   <tr>
@@ -28,85 +28,53 @@
 
 <br>
 
-<h2>How To Use (This section to be edited at my free time) </h2>
+<h2>How To Use</h2>
+I am just concentrating on configuring Android TV's in this document to not confuse the users reading this
+BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for smooth and HD viewing experience
 
-#### ♢ Method 1 :
+Steps
 
-1. Install an Apache server with PHP support<br>
-Recommend apps for android
-  KSWEB: web developer kit (Buy the PRO version)
-  https://play.google.com/store/apps/details?id=ru.kslabs.ksweb
+1. Install the following android apps from google play store
+  a. 'KSWEB: web developer kit', the author of this script recommends using  paid/PRO version
+  b. Tivimate or OTT Navigator Player, I recommend using the paid version<br>
 
-2. Download this Zip Files<br>
-
-- [JioTV Zip](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) <br>
-
-1. Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
-2. Open KSWEB App & Start The Server <br>
-3. Run login.php file for a first time <br>
-4. Put Your E-Mail or Mobile Number without +91 & Password in below Link <br>
-
-```py
-http://localhost:8080/tsjiotv/login.php
+2. Download the [JioTV zip](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) file<br>
+  a. Extract the 'tsjiotv' folder inside the tsjiotv.zip and copy it to 'htdocs' directory <br>
+  As per my 'Airtel xstream Android TV Box' the 'htdocs' location looks like this
+  ```py
+/mnt/sdcard/htdocs
 ```
-7. Now Open [JIOTV WEB] Below Link :
-
+  After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this 
 ```py
-http://localhost:8080/tsjiotv/
+/mnt/sdcard/htdocs/tsjiotv/
 ```
 
-8. Click above link in any Browser . You Will See all Jio Channels . <br>
-9. Click On Channel and Play <br>
+3. Configure the KSWEB Pro
+  a. Open KSWEB Pro and disable all the service except Apache and PHP
+  b. Goto 'Apache' section and edit the configuration file to run the Apache server to run on port 8080
+  c. Goto 'Setting' section and enable 'Auto start', 'Start minimized' and 'Turn off battery saving' (you may need to follow few more steps to turn off battery saving in Android settings)
+  d. Goto 'Status' section and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x'
 
-#### ♢ Method 2 :
+4. Login to JioTV server with your Jio credentials, just for the first time
+  a. Using the 'Android TV' internet browser 
+     ```py
+     http://localhost:8080/tsjiotv/login.php
+     ```
+  b. Using your mobile, iPad or PC's internet browser
+    Your JioTV server ip same as the 'Android TV' private ip we noted down earlier
+    ```py
+     http://<your_private_ip>:8080/tsjiotv/login.php
+    ```
 
-• In Player Put Links Format Like Below
+5. Open Tivimate or OTT Navigator Player and configure the IPTV playlist<br>
+  a. Select local playlist option and choose the 'localplaylist.m3u' file from the htdocs/tsjiotv directory <br>
+  b. in case your IPTV video is lagging/buffering or you don't have the required internet bandwidth to stream smoothly, then choose the default required resolution from one the playlist at htdocs/tsjiotv directory.
 
-  ```py
-http://localhost:8080/tsjiotv/live.php?c=Channel_Name&q=Quality
-  ```
+Hurrah !! Now Play & Enjoy with your Jio Channels .</b><br>
 
-```py
-http://localhost:8080/tsjiotv/live.php?c=And_Pictures_HD&q=800
-```
-
-• Depending on Your Server Change Links
-• This Script is free for USE and Modify</b><br>
-
-#### ♢ Method 3 :
-
-• In Tivimate or OTT Navigator Player Put Links Format Like Below :<br>
-
-  ```py
-http://localhost:8080/tsjiotv/playlist.php
-  ```
-
-• For Local Playlist :<br>
-
-  ```py
-http://localhost:8080/tsjiotv/localplaylist.m3u
-  ```
-
-• <b>FOR DIFFERENT QUALITY USE BELOW LINKS : </b><br>
-
-  ```py
-http://localhost:8080/tsjiotv/localplaylists/jio240p.m3u
-  ```
-• Now Change Above URL Like : jio240p to jio400p , jio600p ,etc. for Quality Change.</b>
-• Hurrah !! Now Play & Enjoy with your Jio Channels .</b><br>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 TechieSneh -->
-
-
-<h2> Generate ssoToken Here (HERE YOU GET DATA WITH OTP) </h2> 
-&ensp; 1. FOR SSO TOKEN : [JioLogin](http://jiologin.unaux.com)<br>
-&ensp; 2. For This You Need JioID Number and Password<br> 
-&ensp; 3. You Can Also get Data with OTP
-
-- `user` = Username / Mobile No.
-- `pass` = Password
-
 <br>
 
 <h2>Disclaimer</h2>
