@@ -14,7 +14,7 @@ Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repos
 &ensp; - Remote play and IPTV clients support<br>
 &ensp; - Works on mobile, Android TV or PC internet browser<br>
 &ensp; - Search channels by Channels, Genre and Language<br>
-&ensp; - Themes support fort the portal<br>
+&ensp; - Themes support for the remote play portal<br>
 
 <br>
 
