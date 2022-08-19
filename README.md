@@ -7,9 +7,9 @@
 <br>
 <h2>Description</h2>
 Why need to pay for monthly TV subscription to Airtel, DishTV, Tata Sky or even Jio when you are already using an Jio postpaid or prepaid number and have an internet connection at home? <br>
-Kudos to the author [mitthu786](https://github.com/mitthu786) for developing this script, I am just a better documenter
+Kudos to the author  <a href="https://github.com/mitthu786">mitthu786</a> for developing this script, I am just a better documenter
 <br>
-Please do star [mitthu786](https://github.com/mitthu786) and my repository
+Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repository
 <br>
 
 <h2>Features</h2>
@@ -51,7 +51,7 @@ Steps
     /mnt/sdcard/htdocs
     ```
 
-  After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this
+  &ensp; After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this
     
     ```py
     /mnt/sdcard/htdocs/tsjiotv/
@@ -70,7 +70,7 @@ Steps
      http://localhost:8080/tsjiotv/login.php
      ```
 
-  b. Using your mobile, iPad or PC's internet browser
+  &ensp; b. Using your mobile, iPad or PC's internet browser
      Your JioTV server ip same as the 'Android TV' private ip we noted down earlier
 
      ```py
