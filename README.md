@@ -6,13 +6,11 @@
 <br>
 <h2>Description</h2>
 Why need to pay for monthly TV subscription to Airtel, DishTV, Tata Sky or even Jio when you are already using an Jio postpaid or prepaid number and have an internet connection at home? <br>
-Kudos to the author  <a href="https://github.com/mitthu786">mitthu786</a> for developing this script, I am just a better documenter
-<br>
-Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repository
-<br>
+Kudos to the author  <a href="https://github.com/mitthu786">mitthu786</a> for developing this script, I am just a better documenter<br>
+Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repository<br>
 
 <h2>Features</h2>
-&ensp; - Supports streaming in Auto, 250p, 400p, 600p, 800p, 1200p<br>
+&ensp; - Supports streaming IPTV in Auto, 250p, 400p, 600p, 800p, 1200p<br>
 &ensp; - Remote play and IPTV clients support<br>
 &ensp; - Works on mobile, Android TV or PC internet browser<br>
 &ensp; - Search channels by Channels, Genre and Language<br>
@@ -62,14 +60,14 @@ Steps
   d. Goto 'Status' section and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
 
 4. Login to JioTV server with your Jio credentials, just for the first time <br>
-  a. Using the 'Android TV' internet browser
+  a. Using the 'Android TV' internet browser <br>
 
      ```py
      http://localhost:8080/tsjiotv/login.php
      ```
 
-  b. Using your mobile, iPad or PC's internet browser
-     Your JioTV server ip is same as the 'Android TV' private ip we noted down earlier
+  b. Using your mobile, iPad or PC's internet browser <br>
+     Your JioTV server ip is same as the 'Android TV' private ip we noted down earlier <br>
 
      ```py
      http://<your_private_ip>:8080/tsjiotv/login.php
@@ -77,8 +75,8 @@ Steps
 
 5. Open Tivimate or OTT Navigator Player and configure the IPTV playlist<br>
   a. Select local playlist option and choose the 'localplaylist.m3u' file from the htdocs/tsjiotv directory <br>
-  b. in case your IPTV video is lagging/buffering or you don't have the required internet bandwidth to stream smoothly, then choose the default required resolution from one the playlist at htdocs/tsjiotv directory.
-  c. Optionally, you can configure to auto start Tivimate or OTT Navigator on Android TV boot or waking from sleep and start playing TV channels as any TV setup box would do.
+  b. in case your IPTV video is lagging/buffering or you don't have the required internet bandwidth to stream smoothly, then choose the default required resolution from one the playlist at htdocs/tsjiotv directory.<br>
+  c. Optionally, you can configure to auto start Tivimate or OTT Navigator on Android TV boot or waking from sleep and start playing TV channels as any TV setup box would do. <br>
 
 Hurrah !! Now Play & Enjoy streaming TV Channels.<br>
 
