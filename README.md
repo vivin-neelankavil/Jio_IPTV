@@ -46,39 +46,43 @@ Steps
 2. Download the [JioTV zip](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) file<br>
   a. Extract the 'tsjiotv' folder inside the tsjiotv.zip and copy it to 'htdocs' directory <br>
   As per my 'Airtel xstream Android TV Box' the 'htdocs' location looks like this
-  ```py
-/mnt/sdcard/htdocs
-```
-  After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this 
-```py
-/mnt/sdcard/htdocs/tsjiotv/
-```
 
-3. Configure the KSWEB Pro
+    ```py
+    /mnt/sdcard/htdocs
+    ```
+
+  After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this
+    
+    ```py
+    /mnt/sdcard/htdocs/tsjiotv/
+    ```
+
+3. Configure the KSWEB Pro <br>
   a. Open KSWEB Pro and disable all the service except Apache and PHP <br>
   b. Goto 'Apache' section and edit the configuration file to run the Apache server to run on port 8080 <br>
   c. Goto 'Setting' section and enable 'Auto start', 'Start minimized' and 'Turn off battery saving' (you may need to follow few more steps to turn off battery saving in Android settings) <br>
   d. Goto 'Status' section and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
 
-4. Login to JioTV server with your Jio credentials, just for the first time
-  a. Using the 'Android TV' internet browser 
+4. Login to JioTV server with your Jio credentials, just for the first time <br>
+  a. Using the 'Android TV' internet browser
+
      ```py
      http://localhost:8080/tsjiotv/login.php
      ```
+
   b. Using your mobile, iPad or PC's internet browser
-    Your JioTV server ip same as the 'Android TV' private ip we noted down earlier
-    ```py
+     Your JioTV server ip same as the 'Android TV' private ip we noted down earlier
+
+     ```py
      http://<your_private_ip>:8080/tsjiotv/login.php
-    ```
+     ```
 
 5. Open Tivimate or OTT Navigator Player and configure the IPTV playlist<br>
   a. Select local playlist option and choose the 'localplaylist.m3u' file from the htdocs/tsjiotv directory <br>
   b. in case your IPTV video is lagging/buffering or you don't have the required internet bandwidth to stream smoothly, then choose the default required resolution from one the playlist at htdocs/tsjiotv directory.
 
-Hurrah !! Now Play & Enjoy with your Jio Channels .</b><br>
-
-<br>
+Hurrah !! Now Play & Enjoy with your Jio Channels.<br>
 
 <h2>Disclaimer</h2>
-&ensp; - This is Just For Educational Purpose
+&ensp; - This is Just For Educational Purpose <br>
 &ensp; - I am not the author of this script, so I don't know if this script injects or collects information from us, use at your ownrisk.
