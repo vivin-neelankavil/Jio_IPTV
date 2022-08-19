@@ -33,13 +33,13 @@ Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repos
 <br>
 
 <h2>How To Use</h2>
-I am just concentrating on configuring Android TV's in this document to not confuse the users reading this
-BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for smooth and HD streaming experience
+I am just concentrating on configuring Android TV's in this document to not confuse the users reading this <br>
+BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for smooth and HD streaming experience.
 
 Steps
 
-1. Install the following android apps from google play store
-  a. 'KSWEB: web developer kit', the author of this script recommends using  paid/PRO version
+1. Install the following android apps from google play store<br>
+  a. 'KSWEB: web developer kit', the author of this script recommends using  paid/PRO version<br>
   b. Tivimate or OTT Navigator Player, I recommend using the paid version<br>
 
 2. Download the [JioTV zip](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) file<br>
