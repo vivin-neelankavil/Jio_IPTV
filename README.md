@@ -16,8 +16,6 @@ Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repos
 &ensp; - Search channels by Channels, Genre and Language<br>
 &ensp; - Themes support for the remote play portal<br>
 
-<br>
-
 <h2>How To Use</h2>
 I am just concentrating on configuring Android TV's in this document to not confuse the users reading this <br>
 BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for smooth and HD streaming experience.<br>
