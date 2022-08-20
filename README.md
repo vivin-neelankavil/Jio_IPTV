@@ -18,17 +18,6 @@ Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repos
 
 <br>
 
-<h2>Screenshots</h2>
-
-<table>
-  <tr>
-    <td><img src="screenshots/main/main.png" width="400" height="200"></td>
-    <td><img src="screenshots/main/play.png" width="400" height="200"></td>
-  </tr>
-</table>
-
-<br>
-
 <h2>How To Use</h2>
 I am just concentrating on configuring Android TV's in this document to not confuse the users reading this <br>
 BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for smooth and HD streaming experience.<br>
@@ -79,6 +68,25 @@ Steps
   c. Optionally, you can configure to auto start Tivimate or OTT Navigator on Android TV boot or waking from sleep and start playing TV channels as any TV setup box would do. <br>
 
 Hurrah !! Now Play & Enjoy streaming TV Channels.<br>
+
+<h2>Screenshots</h2>
+
+<table>
+  <tr>
+    <td><img src="screenshots/remote_portal.png" width="400" height="200"></td>
+    <td><img src="screenshots/video_player.png" width="400" height="200"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Android_home_screen_showing_Tivimate_and_KSWEB.png" width="400" height="200"></td>
+    <td><img src="screenshots/TiviMate_channel_group.png" width="400" height="200"></td>
+  </tr>  
+  <tr>
+    <td><img src="screenshots/Channel_EPG.png" width="400" height="200"></td>
+    <td><img src="screenshots/Fullscreen_view_of_channel.png" width="400" height="200"></td>
+  </tr>
+</table>
+
+<br>
 
 <h2>Disclaimer</h2>
 &ensp; - This is Just For Educational Purpose <br>
