@@ -18,7 +18,7 @@ Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repos
 
 <h2>How To Use</h2>
 I am just concentrating on configuring Android TV and Android set top box in this document to not confuse the users reading this <br>
-BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for smooth and HD streaming experience.<br>
+BTW you need atleast 2Mbps internet bandwidth allocatted just for your Android TV for a smooth and HD streaming experience.<br>
 <br>
 Steps
 
@@ -40,10 +40,10 @@ Steps
   
 3. Configure the 'KSWEB Pro' <br>
   a. Connect a wired/wireless mouse (optionally a keyboard) to your Android TV / setup box and follow the below steps by using a mouse<br>
-  b. Open 'KSWEB Pro', goto each sections above and disable all the services except Apache and PHP <br>
-  c. Goto 'Apache' section and edit the configuration file to run the Apache server to run on port 8080 <br>
+  b. Open 'KSWEB Pro', turn OFF the KSWEB PRO server by using the toggle switch and goto each sections above and disable all the services except Apache and PHP <br>
+  c. Goto 'Apache' section and click on that path displayed and select 'Edit Host Config file'and change the port mentioned in the 12th line as '8080', click save and exit <br>
   d. Goto 'Setting' section and enable 'Auto start', 'Start minimized' and 'Turn off battery saving' (you may need to follow few more steps to turn off battery saving in Android settings) <br>
-  e. Goto 'Status' section and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
+  e. Goto 'Status' section, turn ON the KSWEB PRO server by using the toggle switch and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
 
 4. Login to JioTV server with your Jio credentials, just for the first time <br>
   a. Using the 'Android TV' internet browser, type in the below URL in the address bar and continue with the login process <br>
