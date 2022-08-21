@@ -45,6 +45,10 @@ Steps
   d. Goto 'Setting' section and enable 'Auto start', 'Start minimized' and 'Turn off battery saving' (you may need to follow few more steps to turn off battery saving in Android settings) <br>
   e. Goto 'Status' section, turn ON the KSWEB PRO server by using the toggle switch and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
 
+https://user-images.githubusercontent.com/2281995/185786113-aac4f71f-d4dd-41e9-9918-ce39112a5b69.mp4
+
+
+
 4. Login to JioTV server with your Jio credentials, just for the first time <br>
   a. Using the 'Android TV' internet browser, type in the below URL in the address bar and continue with the login process <br>
 
