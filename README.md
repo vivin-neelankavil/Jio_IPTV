@@ -34,7 +34,7 @@ Steps
     /mnt/sdcard/htdocs
     ```
 
-  After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this
+  &ensp; &ensp;   After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this
     
     /mnt/sdcard/htdocs/tsjiotv/
   
@@ -52,7 +52,7 @@ Steps
      ```
 
   &ensp; &ensp; b. Using your mobile, iPad or PC's internet browser <br>
-  &ensp; &ensp; Your JioTV server ip is same as the 'Android TV' private ip we noted down earlier <br>
+  &ensp; &ensp;   Your JioTV server ip is same as the 'Android TV' private ip we noted down earlier <br>
 
      http://<your_private_ip>:8080/tsjiotv/login.php
 
