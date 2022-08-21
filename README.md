@@ -52,7 +52,7 @@ Steps
      http://localhost:8080/tsjiotv/login.php
      ```
 
-  &ensp; &ensp; b. Using your mobile, iPad or PC's internet browser <br>
+  &ensp; &ensp; b. Using your mobile, iPad or PC's internet browser that is connected to same WiFi/LAN network as Android TV <br>
   &ensp; &ensp;   Your JioTV server IP is same as the 'Android TV' private IP we noted down earlier, type in the below URL (replaced with your private IP) in the address bar and continue with the login process  <br>
 
      http://<your_private_ip>:8080/tsjiotv/login.php
