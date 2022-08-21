@@ -5,7 +5,7 @@
 <h4 align='center'>A Jio IPTV server based on Apache and PHP server than can be run on Android TV, Android set top box and other android things to stream Jio IPTV channels</h4>
 <br>
 <h2>Description</h2>
-Why need to pay for monthly TV subscription to Airtel, DishTV, Tata Sky or even Jio when you are already using an Jio postpaid or prepaid number and have an internet connection at home? <br>
+Why need to pay for monthly TV subscription to Airtel, DishTV, Tata Sky or even Jio when you can get around 945 TV channels by already using an Jio postpaid or prepaid subscription and have an internet connection at home? <br>
 Kudos to the author  <a href="https://github.com/mitthu786">mitthu786</a> for developing this script, I am just a better documenter<br>
 Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repository<br>
 
