@@ -22,7 +22,7 @@ BTW you need atleast 2Mbps internet bandwidth alocatted just for Android TV for 
 <br>
 Steps
 
-1. Install the following android apps from google play store<br>
+1. Install the following android apps from any android play store(be it aptoide or mod market)<br>
   a. 'KSWEB: web developer kit', the author of this script recommends using  paid/PRO version<br>
   b. Tivimate or OTT Navigator Player, I recommend using the paid version as this it has the closest/similar interface of using ideal TV setup box<br>
 
@@ -36,10 +36,8 @@ Steps
 
   After you have pasted the 'tsjiotv' folder, the directory structure of the 'htdocs' directory should look like this
     
-    ```py
     /mnt/sdcard/htdocs/tsjiotv/
-    ```
-
+  
 3. Configure the 'KSWEB Pro' <br>
   a. Open 'KSWEB Pro' and disable all the service except Apache and PHP <br>
   b. Goto 'Apache' section and edit the configuration file to run the Apache server to run on port 8080 <br>
@@ -53,19 +51,17 @@ Steps
      http://localhost:8080/tsjiotv/login.php
      ```
 
-  b. Using your mobile, iPad or PC's internet browser <br>
-     Your JioTV server ip is same as the 'Android TV' private ip we noted down earlier <br>
+  &ensp; &ensp; b. Using your mobile, iPad or PC's internet browser <br>
+  &ensp; &ensp; Your JioTV server ip is same as the 'Android TV' private ip we noted down earlier <br>
 
-     ```py
      http://<your_private_ip>:8080/tsjiotv/login.php
-     ```
 
 5. Open Tivimate or OTT Navigator Player and configure the IPTV playlist<br>
   a. Select local playlist option and choose the 'localplaylist.m3u' file from the htdocs/tsjiotv directory <br>
   b. in case your IPTV video is lagging/buffering or you don't have the required internet bandwidth to stream smoothly, then choose the default required resolution from one the playlist at htdocs/tsjiotv directory.<br>
   c. Optionally, you can configure to auto start Tivimate or OTT Navigator on Android TV boot or waking from sleep and start playing TV channels as any TV setup box would do. <br>
 
-Hurrah !! Now Play & Enjoy streaming TV Channels.<br>
+Hurrah !! Now enjoy streaming TV Channels on your Android TV.<br>
 
 <h2>Screenshots</h2>
 
