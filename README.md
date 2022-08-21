@@ -40,8 +40,8 @@ Steps
   
 3. Configure the 'KSWEB Pro' <br>
   a. Connect a wired/wireless mouse (optionally a keyboard) to your Android TV / setup box and follow the below steps by using a mouse<br>
-  b. Open 'KSWEB Pro', turn OFF the KSWEB PRO server by using the toggle switch and goto each sections above and disable all the services except Apache and PHP <br>
-  c. Goto 'Apache' section and click on that path displayed and select 'Edit Host Config file'and change the port mentioned in the 12th line as '8080', click save and exit <br>
+  b. Open 'KSWEB Pro', turn OFF the KSWEB PRO server by using the toggle switch and goto each service sections that is displayed above of your TV screen and disable all the services except Apache and PHP <br>
+  c. Goto 'Apache' section and click on that path displayed and select 'Edit Host Config file' and change the port mentioned in the 12th line as '8080', click save and exit <br>
   d. Goto 'Setting' section and enable 'Auto start', 'Start minimized' and 'Turn off battery saving' (you may need to follow few more steps to turn off battery saving in Android settings) <br>
   e. Goto 'Status' section, turn ON the KSWEB PRO server by using the toggle switch and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
 
