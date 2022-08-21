@@ -46,14 +46,14 @@ Steps
   e. Goto 'Status' section and note down the private ip address of your 'Android TV' that looks somethings like this '192.168.x.x' <br>
 
 4. Login to JioTV server with your Jio credentials, just for the first time <br>
-  a. Using the 'Android TV' internet browser, type in the below URL in the address bar and continue to login process <br>
+  a. Using the 'Android TV' internet browser, type in the below URL in the address bar and continue with the login process <br>
 
      ```py
      http://localhost:8080/tsjiotv/login.php
      ```
 
   &ensp; &ensp; b. Using your mobile, iPad or PC's internet browser <br>
-  &ensp; &ensp;   Your JioTV server ip is same as the 'Android TV' private ip we noted down earlier, type in the below URL (replaced with your private IP) in the address bar and continue to login process  <br>
+  &ensp; &ensp;   Your JioTV server IP is same as the 'Android TV' private IP we noted down earlier, type in the below URL (replaced with your private IP) in the address bar and continue with the login process  <br>
 
      http://<your_private_ip>:8080/tsjiotv/login.php
 
