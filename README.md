@@ -5,16 +5,22 @@
 <h4 align='center'>A Jio IPTV server based on Apache and PHP server than can be run on Android TV, Android set top box and other android things to stream Jio IPTV channels</h4>
 <br>
 <h2>Description</h2>
-Why need to pay for monthly TV subscription to Airtel, DishTV, Tata Sky or even Jio when you can get around 945 TV channels by already using an Jio postpaid or prepaid subscription and have an internet connection at home? <br>
+Why need to pay for monthly TV subscription to Airtel, DishTV, Tata Sky or even Jio when you can get around 945 TV channels by already using an Jio postpaid or prepaid mobile subscription and have an internet connection at home? <br>
 Kudos to the author  <a href="https://github.com/mitthu786">mitthu786</a> for developing this script, I am just a better documenter<br>
 Please do star <a href="https://github.com/mitthu786">mitthu786</a> and my repository<br>
 
 <h2>Features</h2>
 &ensp; - Supports streaming IPTV in Auto, 250p, 400p, 600p, 800p, 1200p<br>
-&ensp; - Remote play and IPTV clients support<br>
+&ensp; - Remote/LAN player and IPTV clients support<br>
 &ensp; - Works on mobile, Android TV or PC internet browser<br>
 &ensp; - Search channels by Channels, Genre and Language<br>
-&ensp; - Themes support for the remote play portal<br>
+&ensp; - Themes support for the remote/LAN player<br>
+
+
+<h2>Disclaimer</h2>
+&ensp; - This is Just For Educational Purpose <br>
+&ensp; - The TV channels are not streamed for free, you must have an active Jio postpaid/prepaid subscription that comes with a 'JioTV' app access in order for the IPTV script to work <br>
+&ensp; - I am not the author of this script, so I don't know if this script injects or collects information from us, use at your own risk.
 
 <h2>How To Use</h2>
 I am just concentrating on configuring Android TV and Android set top box in this document to not confuse the users reading this <br>
@@ -23,8 +29,8 @@ BTW you need atleast 2Mbps internet bandwidth allocatted just for your Android T
 Steps
 
 1. Install the following android apps from any android play store(be it aptoide or mod market)<br>
-  a. 'KSWEB: web developer kit', the author of this script recommends using paid/PRO version<br>
-  b. Tivimate or OTT Navigator Player, I recommend using the paid version as this it has the closest/similar interface of using ideal TV setup box<br>
+  a. <a href="https://play.google.com/store/apps/details?id=ru.kslabs.ksweb">'KSWEB: web developer kit'</a>, the author of this script recommends using paid/PRO version<br>
+  b. <a href="https://play.google.com/store/apps/details?id=ar.tvplayer.tv">Tivimate</a> or <a href="https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator">OTT Navigator Player</a>, I recommend using the paid version of <a href="https://play.google.com/store/apps/details?id=by.stari4ek.tvirl">TVirl</a> as this it has the closest/similar interface of using ideal TV setup box<br>
 
 2. Download the [JioTV zip](https://github.com/mitthu786/TS-JioTV/blob/main/tsjiotv.zip?raw=true) file<br>
   a. Extract the 'tsjiotv' folder inside the tsjiotv.zip and copy it to 'htdocs' directory <br>
@@ -86,7 +92,3 @@ Hurrah !! Now enjoy streaming TV Channels on your Android TV.<br>
 </table>
 
 <br>
-
-<h2>Disclaimer</h2>
-&ensp; - This is Just For Educational Purpose <br>
-&ensp; - I am not the author of this script, so I don't know if this script injects or collects information from us, use at your own risk.
